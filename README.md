@@ -1,5 +1,5 @@
 ## ! Tarzan#1057
-[![Discord Presence](https://lanyard.cnrad.dev/api/1073669164939624498?idleMessage=EzCord%20>%20Mikocord)](https://discord.gg/illustration) 
+[![Discord Presence](https://lanyard.cnrad.dev/api/680480806686294067?idleMessage=EzCord%20>%20Mikocord)](https://discord.gg/illustration) 
 
 
 ***
