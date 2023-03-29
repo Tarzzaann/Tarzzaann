@@ -1,15 +1,12 @@
 ## ! Tarzan#1057
-[![Discord Presence](https://lanyard.cnrad.dev/api/680480806686294067?idleMessage=EzCord%20>%20Mikocord)](https://discord.gg/illustration) 
+[![Discord Presence](https://lanyard.cnrad.dev/api/680480806686294067?idleMessage=EzCord%20>%20Mikocord)](https://discord.gg/xtkrvJcSAT) 
 
 
 ***
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> About Me
 
-🏷️ × I'm Venue  
+🏷️ × I'm Tarzzaann
 📍   × Germany  
-🔨 × I work on Discord Bots using **[Pycord](https://github.com/Pycord-Development/pycord)**  
-⚙️ × And use **[Ezcord](https://github.com/tibue99/ezcord)** to code bots
-
 
 ***
 ### Links To my projects
@@ -18,7 +15,7 @@
 
 ## 📊 GitHub Stats and Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=invalidvenue&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tarzzaann&theme=tokyonight)](https://git.io/streak-stats)
 
 
 
@@ -30,5 +27,5 @@
 
 ***
 <p align="center">
-  <img align="center" src="https://komarev.com/ghpvc/?username=invalidvenue&label=Profile%20views&color=6330F6&style=flat" alt="invalidvenue"/>
+  <img align="center" src="https://komarev.com/ghpvc/?username=Tarzzaann&label=Profile%20views&color=6330F6&style=flat" alt="Tarzzaann"/>
 </p>
